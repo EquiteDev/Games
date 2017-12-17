@@ -5,4 +5,6 @@
 Alan J. Perlis
 >“A language that doesn't affect the way you think about programming is not worth knowing.”
 
-Now on 
+Now on to the games:
+
+**_Working on some!_**
